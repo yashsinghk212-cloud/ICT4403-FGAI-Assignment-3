@@ -1,0 +1,6 @@
+checkpoints/
+quick_run/checkpoints/
+__pycache__/
+*.pt
+*.safetensors
+.ipynb_checkpoints/

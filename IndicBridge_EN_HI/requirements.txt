@@ -1,0 +1,11 @@
+torch>=2.2
+transformers>=4.50,<5.0
+datasets>=2.19
+peft>=0.11
+accelerate>=0.30
+sentencepiece>=0.2
+sacrebleu>=2.4
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+protobuf
